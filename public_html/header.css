@@ -1,0 +1,40 @@
+.siteheader {
+    width: 100%;
+    margin: 0 !important;
+}
+
+.siteheader img {
+	width: 100%;
+	height: auto;
+	margin: 0;
+	}
+
+.about h1 {
+    width: 90%;
+    border: 0px !important;
+    margin-bottom: 0;
+    
+}
+
+.menubar {
+    border-top: 3px double #000;
+    border-bottom: 3px double #000;
+}
+
+.menubar-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+}
+
+.menubar .menuitem {
+    display: inline-block;
+    text-align: center;
+    width: 125px;
+    padding: 1em;
+    text-transform: uppercase;
+}
+
+.about ul li {
+    margin-left: 2em !important;
+}
