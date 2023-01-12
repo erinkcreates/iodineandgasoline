@@ -25,13 +25,18 @@ nav ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    column-gap: 1em;
+    column-gap: 2rem;
+    row-gap: 1rem;
     padding: 0;
     margin: 1em 0;
 }
 
 nav ul li {
     margin: 0;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
 }
 
 /*
